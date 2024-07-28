@@ -1,0 +1,30 @@
+---
+configuration:
+  alipan_token:
+    name: alipan_token
+    description: >-
+      alipan token.
+  alipan_folder_id:
+    name: alipan_folder_id
+    description: >-
+      alipan folder id.
+  alipan_refresh_token:
+    name: alipan_refresh_token
+    description: >-
+      alipan refresh token.
+  pikpak_conf:
+    name: pikpak_conf
+    description: >-
+      pikpak_conf.
+  docker_address:
+    name: docker_address
+    description: >-
+      docker address.
+  docker_address_ext:
+    name: docker_address_ext
+    description: >-
+      docker address ext.
+  quark_cookie:
+    name: quark_cookie
+    description: >-
+      quark cookie.

@@ -1,0 +1,30 @@
+---
+configuration:
+  alipan_token:
+    name: 阿里云盘token
+    description: >-
+      阿里云盘token。
+  alipan_folder_id:
+    name: 阿里云盘folderid
+    description: >-
+      阿里云盘folderid。
+  alipan_refresh_token:
+    name: 阿里云盘刷新令牌
+    description: >-
+      阿里云盘刷新令牌。
+  pikpak_conf:
+    name: pikpak配置
+    description: >-
+      pikpak 配置。
+  docker_address:
+    name: docker地址文本
+    description: >-
+      docker 地址文本。  
+  docker_address_ext:
+    name: docker外部地址文本
+    description: >-
+      docker 外部地址文本。
+  quark_cookie:
+    name: 夸克cookie
+    description: >-
+      夸克cookie。
