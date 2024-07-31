@@ -15,7 +15,7 @@ configuration:
   pikpak_conf:
     name: pikpak配置
     description: >-
-      pikpak 配置。
+      pikpak 配置，\"邮箱或手机号\" \"密码\"。
   docker_address:
     name: docker地址文本
     description: >-
@@ -27,4 +27,4 @@ configuration:
   quark_cookie:
     name: 夸克cookie
     description: >-
-      夸克cookie。
+      夸克cookie，_UP****开头。
