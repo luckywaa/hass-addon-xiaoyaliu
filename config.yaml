@@ -20,10 +20,10 @@ options:
   alipan_token: ""
   alipan_refresh_token: ""
   alipan_folder_id: ""
-  pikpak_conf: "\"邮箱或手机号\" \"密码\""
+  pikpak_conf: ""
   docker_address: ""
   docker_address_ext: ""
-  quark_cookie: "_UP****"
+  quark_cookie: ""
 schema:
   alipan_token: str
   alipan_refresh_token: str
